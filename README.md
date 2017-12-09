@@ -4,18 +4,18 @@ This project aims at detecting outliers on a time series data. The methodology u
 
 
 Data set
-* [Yahoo Webscope data] (https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
+* [Yahoo Webscope data](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
 
 Code base
-* [STL Code] (https://github.com/anooptoffy/ML-Project-OutlierDetection/blob/master/A1A2-ARIMASTLOUTLIER.r)
-* [A1,A2,A3 Benchmark Code] (https://github.com/anooptoffy/ML-Project-OutlierDetection/blob/master/Final_A1%2CA2%2CA3.R)
-* [A4 Benchmark Code] (https://github.com/anooptoffy/ML-Project-OutlierDetection/blob/master/Final_A4.R)
+* [STL Code](https://github.com/anooptoffy/ML-Project-OutlierDetection/blob/master/A1A2-ARIMASTLOUTLIER.r)
+* [A1,A2,A3 Benchmark Code](https://github.com/anooptoffy/ML-Project-OutlierDetection/blob/master/Final_A1%2CA2%2CA3.R)
+* [A4 Benchmark Code](https://github.com/anooptoffy/ML-Project-OutlierDetection/blob/master/Final_A4.R)
 
 Presentation
-* [Slides] (https://github.com/anooptoffy/ML-Project-OutlierDetection/blob/master/Time%20Series%20Analysis%20on%20Yahoo%20Dataset.pptx)
+* [Slides](https://github.com/anooptoffy/ML-Project-OutlierDetection/blob/master/Time%20Series%20Analysis%20on%20Yahoo%20Dataset.pptx)
 
 Report
-* [Final Draft Paper] (https://github.com/anooptoffy/ML-Project-OutlierDetection/blob/master/FinalReport.pdf)
+* [Final Draft Paper](https://github.com/anooptoffy/ML-Project-OutlierDetection/blob/master/FinalReport.pdf)
 
 ----
 
